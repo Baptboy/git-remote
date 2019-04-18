@@ -1,2 +1,3 @@
 # git-remote
-TP outils versionning
+Delaulne Baptiste 
+E2D 
